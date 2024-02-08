@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 30737b3a4c8f809479ab1acf847f9cee
+guid: 8d956c3ad4a6d574980ff0bdc5e84a21
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,11 +110,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tutor_0
+      name: boxymorgaet_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 113
+        y: 110
         width: 37
         height: 50
       alignment: 0
@@ -124,18 +124,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7950dfc93a9aba4d8030f83addfa66d
-      internalID: -906213549
+      spriteID: bc7c543a9b5c480469ed3fcf8272d2f8
+      internalID: -516669856
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tutor_1
+      name: boxymorgaet_1
       rect:
         serializedVersion: 2
         x: 39
-        y: 112
+        y: 110
         width: 37
         height: 51
       alignment: 0
@@ -145,18 +145,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc04ed1bf4536c24fa7dfc588303b7d4
-      internalID: 1869652341
+      spriteID: 479c061ccea332f478a9407a95081df0
+      internalID: 2070916858
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tutor_2
+      name: boxymorgaet_2
       rect:
         serializedVersion: 2
         x: 78
-        y: 113
+        y: 110
         width: 37
         height: 52
       alignment: 0
@@ -166,18 +166,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b901e8c91175bfc4ca5942902695f9d1
-      internalID: -538373904
+      spriteID: 52c933cfd62ac764b80202ec845de236
+      internalID: 90135011
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tutor_3
+      name: boxymorgaet_3
       rect:
         serializedVersion: 2
         x: 0
-        y: 57
+        y: 55
         width: 37
         height: 53
       alignment: 0
@@ -187,18 +187,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbabbf46b5df3ba42b7946fcc104074b
-      internalID: -378721639
+      spriteID: 578b48168cd57674aacaf6923a8a1d5d
+      internalID: -783893472
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tutor_4
+      name: boxymorgaet_4
       rect:
         serializedVersion: 2
         x: 39
-        y: 57
+        y: 55
         width: 37
         height: 53
       alignment: 0
@@ -208,18 +208,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d18a409ed5f9f8c49b936a10d01fe919
-      internalID: 535822980
+      spriteID: c060c73d01a9e4e4ea693e4400e9f138
+      internalID: -1984851190
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tutor_5
+      name: boxymorgaet_5
       rect:
         serializedVersion: 2
         x: 78
-        y: 57
+        y: 55
         width: 37
         height: 51
       alignment: 0
@@ -229,18 +229,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d0a08b86ff78dc45a73ccc27a99ce97
-      internalID: -1837485457
+      spriteID: 7390b15a6f47e5a44b41a172b837eae5
+      internalID: 2006985922
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tutor_6
+      name: boxymorgaet_6
       rect:
         serializedVersion: 2
         x: 0
-        y: 1
+        y: 0
         width: 37
         height: 50
       alignment: 0
@@ -250,18 +250,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7357b420e425df844a1d03daa6a4ec3b
-      internalID: 1118856395
+      spriteID: df1b90cc9800a1d458be961d9a31eb75
+      internalID: 721615672
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tutor_7
+      name: boxymorgaet_7
       rect:
         serializedVersion: 2
         x: 39
-        y: 1
+        y: 0
         width: 37
         height: 49
       alignment: 0
@@ -271,8 +271,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb11bf588fb7f8a4ea9d2ffc058614aa
-      internalID: 290830616
+      spriteID: 48dbc918beae0e2489375db32b95b20a
+      internalID: -962248067
       vertices: []
       indices: 
       edges: []
@@ -288,14 +288,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      tutor_0: -906213549
-      tutor_1: 1869652341
-      tutor_2: -538373904
-      tutor_3: -378721639
-      tutor_4: 535822980
-      tutor_5: -1837485457
-      tutor_6: 1118856395
-      tutor_7: 290830616
+      boxymorgaet_0: -516669856
+      boxymorgaet_1: 2070916858
+      boxymorgaet_2: 90135011
+      boxymorgaet_3: -783893472
+      boxymorgaet_4: -1984851190
+      boxymorgaet_5: 2006985922
+      boxymorgaet_6: 721615672
+      boxymorgaet_7: -962248067
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
